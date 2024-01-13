@@ -29,7 +29,7 @@ function PrintDeveloperbyForEach() {
 function addData() {
   //Write your code here, just console.log
 
-  const newEmployee = { id: 4, name: "susan", age: "20", profession: "intern" };
+  const newEmployee = { id: 4, name: "Japan", age: "24", profession: "intern" };
     arr.push(newEmployee);
     console.log(newEmployee);
 }
